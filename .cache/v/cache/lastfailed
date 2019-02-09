@@ -1,0 +1,5 @@
+{
+  "test.py::TestCalculator": true, 
+  "test.py::TestOdejmowanie::test_odejmowanie": true, 
+  "test.py::TestStringCalculator": true
+}
